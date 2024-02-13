@@ -18,6 +18,12 @@ Data.gov
 Google Dataset Search
 You may use your own data if you have permission and there is no confidential information included. Be careful with your data selection and ensure you have rights to use the content.
 
+## Dataset description
+This EDA will analyze the "mpg" dataset from the seaborn library. This database looks at vehicles and several variables that may contribute to its mpg (miles per gallon). These variables include cylinders, horsepower, engine displacement, and weight. This database shows several types of vehicles and some of their specs.
+This database can be accessed with the following link:
+https://github.com/mwaskom/seaborn-data/blob/master/mpg.csv 
+
+
 ## Clone repo from GitHub website
 git clone https://github.com/carlosmontoya3/datafun-06-eda
 
